@@ -24,7 +24,7 @@ public class LS_05 {
         for (int row = 0; row < arr.length; row++) {
             for (int col = 0; col < arr[row].length; col++) {
                 if (arr[row][col] == target) {
-                    return new int[]{row, col};
+                    return new int[]{row, col};  // this returns an array with index values not actual values
                 }
             }
         }
