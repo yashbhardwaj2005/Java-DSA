@@ -33,7 +33,7 @@ public class LS_05 {
 
     static int max(int[][] arr) {
         int max = Integer.MIN_VALUE;
-        for (int[] ints : arr) {
+        for (int[] ints : arr) {   // for each loop
             for (int element : ints) {
                 if (element > max) {
                     max = element;
