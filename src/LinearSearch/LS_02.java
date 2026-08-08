@@ -2,15 +2,15 @@
 //
 // Here str.length() is used as it a method/function and arr.length is a field/property
 
+
 package LinearSearch;
 import java.util.Arrays;
 
 public class LS_02 {
     public static void main(String[] args) {
-        String name = "Kunal";
-        char target = 'u';
-//        System.out.println(search(name, target));
-
+        String name = "Yash";
+        char target = 'a';
+        System.out.println(search(name, target));
         System.out.println(Arrays.toString(name.toCharArray()));
     }
 
