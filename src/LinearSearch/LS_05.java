@@ -1,4 +1,4 @@
-// SEARCHING IN A 2D ARRAY :-
+// SEARCHING IN A 2D ARRAY || ALSO MAX IN A ARRAY:-
 
 package LinearSearch;
 import java.util.Arrays;
@@ -32,7 +32,7 @@ public class LS_05 {
     }
 
     static int max(int[][] arr) {
-        int max = Integer.MIN_VALUE;
+        int max = Integer.MIN_VALUE;      // We can also take 1st element as max and then update
         for (int[] ints : arr) {   // for each loop
             for (int element : ints) {
                 if (element > max) {
