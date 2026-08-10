@@ -2,7 +2,7 @@ package BinarySearch;
 
 public class BS_01 {
     static void main() {
-        int arr[] = {-1, -3, -9, 0, 3, 6, 8, 9, 23, 45};
+        int arr[] = {-1, -3, -9, 0, 3, 6, 8, 9, 23, 45};  // SORTED ARRAY
         int ans = BinarySearch(arr, 23);
         System.out.println(ans);
     }
