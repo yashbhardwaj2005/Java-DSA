@@ -9,7 +9,7 @@ public class LC_283 {
 
     public static void main(String[] args) {
 
-        int[] nums = {0, 1, 0, 3, 12};
+        int[] nums = {0, 1, 0, 3, 12, 0, 55, 23, 0, 0, 12, 0, 8};
 
         int index = 0;
 
