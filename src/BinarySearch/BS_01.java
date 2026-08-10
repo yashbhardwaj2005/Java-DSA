@@ -1,8 +1,10 @@
+//BASICS OF BINARY SEARCH FOR 1D ARRAY :-
+
 package BinarySearch;
 
 public class BS_01 {
     static void main() {
-        int arr[] = {-1, -3, -9, 0, 3, 6, 8, 9, 23, 45};  // SORTED ARRAY
+        int arr[] = {-1, -3, -9, 0, 3, 6, 8, 9, 23, 45};  // SORTED ARRAY (ascending)
         int ans = BinarySearch(arr, 23);
         System.out.println(ans);
     }
@@ -26,10 +28,8 @@ public class BS_01 {
             } else {
                 return mid;
             }
-
         }
         return -1;
-
     }
 
 }
