@@ -1,4 +1,4 @@
-// SEARCH IN ARRAYS :-
+// LINEAR SEARCH IN ARRAYS :-
 
 package LinearSearch;
 
