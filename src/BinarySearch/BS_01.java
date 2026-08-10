@@ -15,7 +15,7 @@ public class BS_01 {
         int end = arr.length - 1;
 
         while (start <= end) {
-
+//          find the middle element:-
 //          int mid = start + end / 2;      // might be possible that start + end exceeds the range of int in java
             int mid = start + (end - start) / 2;
 
