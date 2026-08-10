@@ -10,7 +10,7 @@ Time Complexity: O(n)
 Space Complexity: O(n)
 */
 
-public class Leetcode_1920 {
+public class LC_1920 {
 
     public static int[] buildArray(int[] nums) {
 
