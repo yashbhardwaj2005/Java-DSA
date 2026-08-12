@@ -1,7 +1,7 @@
 //BASICS OF BINARY SEARCH FOR 1D ARRAY :-
 
 // [JAHA BHI SORTED ARRAY DIKHE QUESTION ME , START THINKING WITH BINARY SEARCH]
-// BS time complexity reduce krta h
+// // Binary Search Time Complexity : O(log n) because search space is halved each time
 
 package BinarySearch;
 
