@@ -1,6 +1,7 @@
 //BASICS OF BINARY SEARCH FOR 1D ARRAY :-
 
 // [JAHA BHI SORTED ARRAY DIKHE QUESTION ME , START THINKING WITH BINARY SEARCH]
+// BS time complexity reduce krta h
 
 package BinarySearch;
 
