@@ -6,7 +6,7 @@
 
 package BinarySearch;
 
-import java.util.Arrays;
+import java.util.Arrays;  //  Used to print the array nicely using Arrays.toString()
 
 public class LC_34 {
 
