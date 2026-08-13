@@ -22,7 +22,7 @@ public class LC_852 {
         int start = 0;
         int end = arr.length - 1;
 
-        while (start < end) {
+        while (start < end) {  // we dont use <= because we already know that if all elements fail , then last will obviously be the peak
 
             int mid = start + (end - start) / 2;
 
