@@ -14,6 +14,11 @@
 ///  Otherwise, discard the sorted half and search in the other half.
 ///  Repeat until the target is found or start > end
 
+// Key rule to remember:
+
+///  Left sorted  → nums[start] <= nums[mid]
+///  Right sorted → nums[start] > nums[mid]
+
 
 
 package BinarySearch
