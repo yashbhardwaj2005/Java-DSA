@@ -12,7 +12,7 @@
 ///  Find mid and check which half is sorted.
 ///  If the target lies within the sorted half, search in that half.
 ///  Otherwise, discard the sorted half and search in the other half.
-///  Repeat until the target is found or start > end.
+///  Repeat until the target is found or start > end
 
 
 
